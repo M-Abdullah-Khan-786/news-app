@@ -5,13 +5,18 @@ This project is a React web application that utilizes the Create React App tool,
 **Features:**
 
 News Categories: News by different categories such as business, technology, sports, etc.
+
 Responsive Design: The application is designed to work seamlessly across various devices and screen sizes.
 
 
 **Technologies Used:**
 
 React
+
 Create React App
+
 React Bootstrap
+
 React Icons
+
 News API
